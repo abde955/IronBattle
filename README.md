@@ -26,12 +26,12 @@ Este proyecto es un simulador de batalla RPG básico en Java, donde dos personaj
 
 
 ## Ejemplo de combate
-
-Hello and welcome to the battle simulator!                                     
-Conan hace un ataque fuerte a Gandalf causando 6 de daño.
-Gandalf lanza un Fireball a Conan causando 37 de daño.
-Conan HP: 64
-Gandalf HP: 43
+-------------------------
+- Hello and welcome to the battle simulator!                                     
+- Conan hace un ataque fuerte a Gandalf causando 6 de daño.
+- Gandalf lanza un Fireball a Conan causando 37 de daño.
+- Conan HP: 64
+- Gandalf HP: 43
 -------------------------
 ...
 Conan wins!
